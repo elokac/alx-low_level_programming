@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - This is the Entry Point for this program
+ *
+ * Return: When it returns (0) then it's success
+ */
+
 int main(void)
 {
 	int n;
